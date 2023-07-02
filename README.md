@@ -5,7 +5,7 @@ For database, better using https://railway.app/ :)
 
 Copy .env.example to .env, then fill db information
 
-```http
+```bash
 DB_HOST=
 DB_PORT=
 DB_USER=
@@ -16,7 +16,7 @@ DB_SLL_MODE=
 
 #### How to run
 
-```http
+```bash
   air
 ```
 
@@ -25,12 +25,12 @@ DB_SLL_MODE=
 
 #### Register
 
-```http
+```bash
   POST /v1/auth/register
 ```
 
 #### Login
-```http
+```bash
   POST /v1/auth/login
 ```
 
