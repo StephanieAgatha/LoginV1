@@ -3,7 +3,7 @@
 
 For database, better using https://railway.app/ :)
 
-Copy .env.example to .env, then fill db information
+Fill DB Information on config/db.env
 
 ```bash
 DB_HOST=
