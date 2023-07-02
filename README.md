@@ -36,5 +36,7 @@ DB_SLL_MODE=
 
 Todo : JWT Implementation
 
+This project is Purpose learning ^_^
+Credit : NooBeeID
 ![App Screenshot](https://media.tenor.com/S-88dgW5-0IAAAAC/jihyo.gif)
 
